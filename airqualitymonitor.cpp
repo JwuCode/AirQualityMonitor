@@ -1,5 +1,5 @@
 /* Test sketch for Adafruit PM2.5 sensor with UART or I2C */
-
+test
 #include "Adafruit_PM25AQI.h"
 
 // If your PM2.5 is UART only, for UNO and others (without hardware serial) 
